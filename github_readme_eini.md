@@ -22,7 +22,7 @@ Minua motivoi jatkuva oppiminen ja toimintojen kehittäminen tehokkaammiksi ja k
   ## 🧠 Kokemus ja osaaminen
   
   Minulla on kokemusta asiantuntijatehtävistä julkisella ja yksityisellä sektorilla, mm. seuraavissa rooleissa:
-- Operatiivinen projektipäällikkö  
+- Prosessisuunnittelija (Operatiivinen projektipäällikkö)  
 - IT-suunnittelija  
 - Palvelukoordinaattori  
 
@@ -100,7 +100,7 @@ I’m motivated by continuous learning and improving operations to be more effic
 ## 🧠 Experience & Expertise
 
 I have experience in expert-level roles across both the public and private sectors, including:
-- Operative Project Manager  
+- Workflow/process Designer (Operative Project Manager)  
 - IT Planner  
 - Service Coordinator  
 
@@ -158,102 +158,4 @@ Through education and ongoing self-directed learning, I’m building a strong te
 👉 [github.com/EiniMarja](https://github.com/EiniMarja)
 
 
-Sama mut eri layot (älä enää lue tätä -> mitä mieltä laoutista?)
 
-# 👋 Hei, olen Eini | Hi, I'm Eini
-
-**(FIN/ENG)**  
-Asiantuntija taloushallinnon, prosessikehityksen ja järjestelmäkehityksen osa-alueilla  
-🔍 Tavoitteena siirtyä teknologiapainotteisiin asiantuntijatehtäviin IT-ratkaisujen ja data-analytiikan parissa
-
-Expert in financial management, process development/optimization, and system design  
-🔍 Currently evolving toward technology-driven roles in IT solutions and data analytics
-
----
-
-## 💼 Nykytilanne | Current Status
-
-Opiskelen jatkuvasti uusia teknologisia ratkaisuja ja työkaluja, jotta voisin hyödyntää osaamistani yhä monipuolisemmin. Etsin aktiivisesti uusia haasteita, joissa voin kehittää osaamistani ja hyödyntää monipuolista taustaani.
-
-I am continuously learning new technologies and tools to expand my capabilities and apply my expertise more broadly. I’m actively seeking new challenges where I can grow professionally and leverage my diverse background.
-
----
-
-## 🧠 Kokemus ja osaaminen | Experience & Expertise
-
-Minulla on kokemusta asiantuntijatehtävistä julkisella ja yksityisellä sektorilla:
-- Operatiivinen projektipäällikkö  
-- IT-suunnittelija  
-- Palvelukoordinaattori  
-
-I have experience in expert-level roles across both public and private sectors:
-- Operative Project Manager  
-- IT Planner  
-- Service Coordinator  
-
-**Keskeiset osaamisalueet | Key areas of expertise:**
-- Talousprosessien automatisointi (RPA, SAP, Rondo, Excel)  
-- Power BI -raportointi ja visualisointi RPA-prosesseista  
-- Ketterät menetelmät (Scrum, SAFe)  
-- Työkalut: Jira, Confluence, Git  
-- Palvelumuotoilu ja sidosryhmäyhteistyö  
-- Tekoälyn perusteet (Knime)  
-- Tilastolliset työkalut: R, Stata, SPSS, SAS (perusteet)
-
----
-
-## 🎓 Koulutus | Education
-
-- YAMK-opinnot: Tietojohtaminen ja älykkäät palvelut *(opinnäytetyö kesken)*  
-- Kauppatieteiden kandidaatti: Taloustiede, rahoitus, laskentatoimi  
-- Täydennyskoulutuksia: Python, SQL, AI ja koneoppiminen, Git-versionhallinta
-
-- Master's-level studies: Knowledge Management & Smart Services *(thesis in progress)*  
-- Bachelor's degree in Business: Economics, Finance, Accounting  
-- Additional training: Python, SQL, AI & Machine Learning, Git version control
-
----
-
-## 🧠 Työskentelytapa | Working Style
-
-Analyyttinen | Tavoitteellinen | Ratkaisukeskeinen  
-Opin nopeasti, hahmotan kokonaisuuksia ja yhdistän eri osa-alueita toimiviksi ratkaisuiksi. Hyödynnän työkaluja kuten YouTubea, Copilotia ja ChatGPT:tä oppimisen tukena.
-
-Analytical | Goal-oriented | Solution-focused  
-Quick to learn, with a strong ability to grasp complex systems and connect domains into cohesive, functional solutions. I actively use tools like YouTube, Copilot, and ChatGPT to support independent learning.
-
----
-
-## 🎯 Tavoitteeni | Career Objective
-
-Tavoitteeni on siirtyä liiketoimintalähtöisistä rooleista teknologiapainotteisiin asiantuntijatehtäviin, joissa voin yhdistää vahvan prosessiosaamiseni ja kehittyvän teknisen osaamiseni. Haluan kehittää palveluita, jotka hyödyntävät automaatiota, koneoppimista ja data-analytiikkaa – ja tuottavat lisäarvoa sekä organisaatioille että asiakkaille.
-
-My goal is to evolve from business-oriented roles into technology-driven expert positions where I can combine deep process expertise with emerging technical capabilities. I aim to design and develop services that leverage automation, machine learning, and data analytics to create meaningful value for organizations and customers.
-
----
-
-## 🚀 Kehityskohteet | Focus Areas
-
-- 📊 Data-analytiikka ja visualisointi | Data analytics & visualization (Excel, Power BI, Python, SQL, R)
-- ☁️ Pilvipalvelut | Cloud services (Azure, AWS)
-- 🤖 Automaatio ja tekoälyratkaisut | Automation & AI solutions (Knime, Copilot, ChatGPT)
-- 🧠 Tiedolla johtaminen, projektinhallinta ja palvelumuotoilu | Data-driven leadership, project management & service design (Jira, Confluence, Figma, Miro)
-- ⚙️ Ohjelmistokehityksen automaatio ja versionhallinta | Software development automation & version control (GitHub, GitLab)
-
----
-
-## 📚 Oppiminen | Learning Path
-
-Koulutuksen ja jatkuvan itseohjautuvan oppimisen kautta rakennan vahvaa teknistä osaamispohjaa, joka tukee urasiirtymääni IT-ratkaisujen ja data-analytiikan pariin.
-
-Through formal education and ongoing self-directed learning, I’m building a strong technical foundation to support my career shift into IT solutions and data analytics.
-
----
-
-## 🔗 Connect with Me
-
-📫 LinkedIn – Learn more about my background and experience:  
-👉 [linkedin.com/in/eini-leväslampi-1049469](http://linkedin.com/in/eini-lev%C3%A4slampi-1049469)
-
-💻 GitHub – Explore my projects and technical skills:  
-👉 [github.com/EiniMarja](https://github.com/EiniMarja)
