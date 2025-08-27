@@ -1,6 +1,6 @@
 #Yritysanalyysi: Kannattavuus ja Vakavaraisuus
 
-Tekijä: Eini Leäslampi
+Tekijä: Eini 
 Päivämäärä: 31.7.2025
 Curssi:Ohjelmoinnin perusteet TT00CD77-3012/Jamk
 
@@ -138,6 +138,7 @@ ei viedoesittelyä
    tulisi r3ealistisempi ja siten käyttökelpoisempi
 
 Arvio työn pistemäärästä 35-40 pistettä -> ainakin yritin tehdä mielenkiintoisen ja toimivan työn, jota voin kehittää itsenäisesti jatkossa realistisemmaksi, kun taidot karttuu :)
+
 
 
 
