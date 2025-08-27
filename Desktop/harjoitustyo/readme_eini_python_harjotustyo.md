@@ -1,12 +1,9 @@
 #Yritysanalyysi: Kannattavuus ja Vakavaraisuus
 
-Tekijä: Eini Leäslampi
+Tekijä: Eini 
 Päivämäärä: 31.7.2025
 Curssi:Ohjelmoinnin perusteet TT00CD77-3012/Jamk
 
-##Linkki toteutukseen
-
-[GitLab-projektin URL tähän]
 
 ##Tehtävän kuvaus
 
